@@ -9,6 +9,7 @@ background:         'assets/img/stars.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://digieth.github.io
+#url:                localhost:4000
 
 # Jekyll
 permalink:          /:title/
@@ -40,7 +41,7 @@ sass:
 #email:
 twitter:            username
 #facebook:           username
-github:             username
+github:             digieth
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
