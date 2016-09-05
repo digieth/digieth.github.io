@@ -1,24 +1,20 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About Digieth
+tags: [about, digieth, ethereum, blockchain]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://digieth.github.io"><b>Digieth</b></a><p>Đecentralized applications and smart contract development studio</p></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Mision
+* Research, develop and disrupt information areas where blockchain technology is far superior and thus brings added value compared to centralized existing alternatives with a focus on ethereum based systems.
+* Make accessible Dapps with a great user experience in mind.
+* Develop reusable application modules and components for blockchain technologies.
+* Bring blockchain applications to everyone.
+
+
 
 ## Preview
 
@@ -28,6 +24,7 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
+{::comment}
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Getting Started
@@ -35,3 +32,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+{:/comment}
