@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rise of Ethereum"
-date:   2016-09-05
+date:   2016-09-04
 excerpt: ""
 tag:
 - ethereum

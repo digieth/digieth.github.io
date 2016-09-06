@@ -5,7 +5,7 @@ description:        "Đecentralized applications and smart contract development 
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/digieth.png'
-background:         'assets/img/stars.jpg'
+background:         'assets/img/stars2.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://digieth.github.io
