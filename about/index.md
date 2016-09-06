@@ -19,7 +19,7 @@ is a Đecentralized applications and smart contract development studio.</center>
 
 
 ## Mision
-* Research, develop and disrupt IT areas where blockchain technology is far superior and thus brings added value compared to centralized existing alternatives with a focus on ethereum based systems.
+* Research, develop and disrupt IT areas where blockchain technology is superior and thus brings added value compared to centralized existing alternatives with a focus on ethereum based systems.
 * Make accessible Dapps with a great user experience in mind.
 * Develop reusable application modules and components for blockchain technologies.
 * Bring blockchain applications to everyone.
