@@ -6,7 +6,11 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://digieth.github.io"><b>Digieth</b></a><p>Đecentralized applications and smart contract development studio</p></center>
+<center><a href="http://digieth.github.io"><b>We are</b></a><p>a Đecentralized applications and smart contract development studio</p></center>
+
+## Vision
+* Blockchain is increasingly becoming the backbone of trustless financial and censorship resistant application services disolving centralized control, lowering costs and improving trust between parties. 
+
 
 ## Mision
 * Research, develop and disrupt IT areas where blockchain technology is far superior and thus brings added value compared to centralized existing alternatives with a focus on ethereum based systems.
