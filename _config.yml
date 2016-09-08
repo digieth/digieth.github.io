@@ -2,14 +2,14 @@
 title:              Digieth
 bio:                'Decentralized applications and smart contract development studio'
 description:        "Decentralized applications and smart contract development studio"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/digieth.png'
+logo:               'assets/img/digieth07.png'
 background:         'assets/img/stars2.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-#url:                https://digieth.github.io
-url:                http://localhost:4000
+url:                https://digieth.github.io
+#url:                http://localhost:4000
 
 # Jekyll
 permalink:          /:title/
