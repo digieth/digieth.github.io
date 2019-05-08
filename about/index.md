@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About Digieth
 tags: [about, digieth, ethereum, blockchain]
 date: 2016-03-21
 comments: false
